@@ -3,9 +3,9 @@ INSERT INTO students (
     "last_name",
     "email"
 ) VALUES (
-    "Rudy",
-    "Doggo",
-    "bigrudyboy@gmail.com"
+    "Fikayo",
+    "Olamigoke",
+    "OOO@gmail.com"
 )
 
 -- .mode columns => turns columns on
